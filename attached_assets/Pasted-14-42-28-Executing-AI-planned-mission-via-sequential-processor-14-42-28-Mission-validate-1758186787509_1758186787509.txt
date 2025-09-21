@@ -1,0 +1,35 @@
+14:42:28] 🚀 Executing AI-planned mission via sequential processor...
+[14:42:28] ✅ Mission validated - executing 21 commands via sequential processor
+[14:42:28] 🎯 Executing: takeoff
+[14:42:28] 🎯 Executing: hover 3
+[14:42:28] ❌ Cannot convert action 'move_forward(300)' to safe command
+[14:42:28] 📋 Queued: hover 3 (position 2)
+[14:42:28] 📋 Queued: photo (position 3)
+[14:42:28] ❌ Cannot convert action 'rotate_clockwise(90)' to safe command
+[14:42:28] ❌ Cannot convert action 'move_forward(300)' to safe command
+[14:42:28] 📋 Queued: hover 3 (position 4)
+[14:42:28] 📋 Queued: photo (position 5)
+[14:42:28] ❌ Cannot convert action 'rotate_clockwise(90)' to safe command
+[14:42:28] ❌ Cannot convert action 'move_forward(300)' to safe command
+[14:42:28] 📋 Queued: hover 3 (position 6)
+[14:42:28] 📋 Queued: photo (position 7)
+[14:42:28] ❌ Cannot convert action 'rotate_clockwise(90)' to safe command
+[14:42:28] ❌ Cannot convert action 'move_forward(300)' to safe command
+[14:42:28] 📋 Queued: hover 3 (position 8)
+[14:42:28] 📋 Queued: photo (position 9)
+[14:42:28] ❌ Cannot convert action 'rotate_clockwise(180)' to safe command
+[14:42:28] ❌ Cannot convert action 'move_forward(300)' to safe command
+[14:42:28] 📋 Queued: land (position 10)
+[14:42:28] 📋 Queued: hover 3 (position 11)
+[14:42:28] 🚀 Mission step 1: ❌ Takeoff failed
+[14:42:28] 🚀 Mission step 2: ❌ Hover failed
+[14:42:28] 🚀 Mission step 4: ❌ Hover failed
+[14:42:28] 🚀 Mission step 5: ❌ Photo failed: Cannot take photo - video stream not available
+[14:42:28] 🚀 Mission step 8: ❌ Hover failed
+[14:42:28] 🚀 Mission step 9: ❌ Photo failed: Cannot take photo - video stream not available
+[14:42:29] 🚀 Mission step 12: ❌ Hover failed
+[14:42:29] 🚀 Mission step 13: ❌ Photo failed: Cannot take photo - video stream not available
+[14:42:29] 🚀 Mission step 16: ❌ Hover failed
+[14:42:29] 🚀 Mission step 17: ❌ Photo failed: Cannot take photo - video stream not available
+[14:42:29] 🚀 Mission step 20: ✅ Landing successful
+[14:42:30] 🚀 Mission step 21: ❌ Hover failed

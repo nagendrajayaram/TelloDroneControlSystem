@@ -1,0 +1,63 @@
+[15:21:27] 🔄 Starting 360° Panorama Capture with sequential commands...
+[15:21:27] 📸 Executing panorama sequence: 24 commands
+[15:21:27] 🎯 Executing: cw 45
+[15:21:27] 🎯 Executing: hover 2
+[15:21:27] 📋 Queued: photo (position 2)
+[15:21:27] 📷 Panorama rotation: ✅ Rotated clockwise 45°
+[15:21:28] 📋 Queued: cw 45 (position 2)
+[15:21:28] 📋 Queued: hover 2 (position 3)
+[15:21:28] 📋 Queued: photo (position 4)
+[15:21:29] 📋 Queued: cw 45 (position 5)
+[15:21:29] 📋 Queued: hover 2 (position 6)
+[15:21:29] 📋 Queued: photo (position 7)
+[15:21:29] 📷 Panorama hover: ✅ Hovered for 2.0 seconds
+[15:21:30] 📷 Panorama photo: ✅ Photo saved: tello_photo_20250918_152130.jpg
+[15:21:30] 📷 Collected image 1/8 for stitching
+[15:21:30] 📋 Queued: cw 45 (position 6)
+[15:21:30] 📋 Queued: hover 2 (position 7)
+[15:21:30] 📋 Queued: photo (position 8)
+[15:21:30] 📷 Panorama rotation: ✅ Rotated clockwise 45°
+[15:21:31] 📋 Queued: cw 45 (position 8)
+[15:21:31] 📋 Queued: hover 2 (position 9)
+[15:21:31] 📋 Queued: photo (position 10)
+[15:21:32] 📋 Queued: cw 45 (position 11)
+[15:21:32] 📋 Queued: hover 2 (position 12)
+[15:21:32] 📋 Queued: photo (position 13)
+[15:21:32] 📷 Panorama hover: ✅ Hovered for 2.0 seconds
+[15:21:33] 📷 Panorama photo: ✅ Photo saved: tello_photo_20250918_152133.jpg
+[15:21:33] 📷 Collected image 2/8 for stitching
+[15:21:33] 📋 Queued: cw 45 (position 12)
+[15:21:33] 📋 Queued: hover 2 (position 13)
+[15:21:33] 📋 Queued: photo (position 14)
+[15:21:33] 📷 Panorama rotation: ✅ Rotated clockwise 45°
+[15:21:34] 📋 Queued: cw 45 (position 14)
+[15:21:34] 📋 Queued: hover 2 (position 15)
+[15:21:34] 📋 Queued: photo (position 16)
+[15:21:35] 📷 Panorama hover: ✅ Hovered for 2.0 seconds
+[15:21:36] 📷 Panorama photo: ✅ Photo saved: tello_photo_20250918_152136.jpg
+[15:21:36] 📷 Collected image 3/8 for stitching
+[15:21:36] 📷 Panorama rotation: ✅ Rotated clockwise 45°
+[15:21:38] 🔧 Starting panorama stitching with 3 images...
+[15:21:38] 🔧 Processing panorama with OpenCV Stitcher...
+[15:21:38] 🔄 Stitching 3 images...
+[15:21:38] 📷 Panorama hover: ✅ Hovered for 2.0 seconds
+[15:21:39] 📷 Panorama photo: ✅ Photo saved: tello_photo_20250918_152139.jpg
+[15:21:39] 📷 Collected image 4/8 for stitching
+[15:21:39] ❌ Panorama stitching failed: Camera parameter adjustment failed
+[15:21:39] 💡 Try flying more steadily or adjusting lighting conditions
+[15:21:39] 📷 Panorama rotation: ✅ Rotated clockwise 45°
+[15:21:41] 📷 Panorama hover: ✅ Hovered for 2.0 seconds
+[15:21:42] 📷 Panorama photo: ✅ Photo saved: tello_photo_20250918_152142.jpg
+[15:21:42] 📷 Collected image 1/8 for stitching
+[15:21:42] 📷 Panorama rotation: ✅ Rotated clockwise 45°
+[15:21:44] 📷 Panorama hover: ✅ Hovered for 2.0 seconds
+[15:21:45] 📷 Panorama photo: ✅ Photo saved: tello_photo_20250918_152145.jpg
+[15:21:45] 📷 Collected image 2/8 for stitching
+[15:21:45] 📷 Panorama rotation: ✅ Rotated clockwise 45°
+[15:21:47] 📷 Panorama hover: ✅ Hovered for 2.0 seconds
+[15:21:48] 📷 Panorama photo: ✅ Photo saved: tello_photo_20250918_152148.jpg
+[15:21:48] 📷 Collected image 3/8 for stitching
+[15:21:48] 📷 Panorama rotation: ✅ Rotated clockwise 45°
+[15:21:50] 📷 Panorama hover: ✅ Hovered for 2.0 seconds
+[15:21:51] 📷 Panorama photo: ✅ Photo saved: tello_photo_20250918_152151.jpg
+[15:21:51] 📷 Collected image 4/8 for stitching

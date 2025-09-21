@@ -1,0 +1,197 @@
+2025-09-19 02:39:56 | INFO    | LOGGER | Daily log file created | DATA: {"filename":"logs/drone_system_2025-09-19.log","date":"2025-09-19"}
+2025-09-19 02:39:56 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T02:39:56.251913"}
+2025-09-19 02:39:56 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 02:39:56 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 02:39:56 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 02:39:56 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 02:39:56 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 02:39:56 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 02:39:56 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 02:39:57 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 02:39:57 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}
+2025-09-19 02:41:13 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T02:41:13.446876"}
+2025-09-19 02:41:13 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 02:41:13 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 02:41:13 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 02:41:13 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 02:41:13 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 02:41:13 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 02:41:13 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 02:41:14 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 02:41:14 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}
+2025-09-19 02:45:03 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T02:45:03.967741"}
+2025-09-19 02:45:04 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 02:45:04 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 02:45:04 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 02:45:04 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 02:45:04 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 02:45:04 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 02:45:04 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 02:45:04 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 02:45:05 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}
+2025-09-19 02:45:49 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T02:45:49.708861"}
+2025-09-19 02:45:49 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 02:45:49 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 02:45:49 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 02:45:49 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 02:45:49 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 02:45:49 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 02:45:49 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 02:45:50 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 02:45:50 | ERROR   | GUI | ⚠️ Simulation video stream failed to start | DATA: {"mode":"SIMULATION","gui_message":"\u26a0\ufe0f Simulation video stream failed to start"}
+2025-09-19 02:46:32 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T02:46:32.820580"}
+2025-09-19 02:46:32 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 02:46:33 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 02:46:33 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 02:46:33 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 02:46:33 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 02:46:33 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 02:46:33 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 02:46:33 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 02:46:34 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}
+2025-09-19 02:47:07 | INFO    | GUI | 🔄 Switching from SIMULATION to REALTIME mode... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd04 Switching from SIMULATION to REALTIME mode..."}
+2025-09-19 02:47:07 | INFO    | MODE_SWITCH | User initiated mode switch from SIMULATION to REALTIME | DATA: {"old_mode":"SIMULATION","new_mode":"REALTIME","was_connected":true,"was_flying":false}
+2025-09-19 02:47:07 | INFO    | GUI | 🔌 Disconnecting current connection... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd0c Disconnecting current connection..."}
+2025-09-19 02:47:07 | INFO    | GUI | 🔌 Reinitializing agent for REALTIME mode... | DATA: {"mode":"REALTIME","gui_message":"\ud83d\udd0c Reinitializing agent for REALTIME mode..."}
+2025-09-19 02:47:07 | INFO    | GUI | Successfully switched to REALTIME mode! | DATA: {"mode":"REALTIME","gui_message":"\u2705 Successfully switched to REALTIME mode!","success":true}
+2025-09-19 02:47:07 | INFO    | MODE_SWITCH | Mode switch completed successfully to REALTIME | DATA: {"mode":"REALTIME","reconnection_attempted":false}
+2025-09-19 02:47:27 | INFO    | GUI | 🔄 Switching from REALTIME to SIMULATION mode... | DATA: {"mode":"REALTIME","gui_message":"\ud83d\udd04 Switching from REALTIME to SIMULATION mode..."}
+2025-09-19 02:47:27 | INFO    | MODE_SWITCH | User initiated mode switch from REALTIME to SIMULATION | DATA: {"old_mode":"REALTIME","new_mode":"SIMULATION","was_connected":false,"was_flying":false}
+2025-09-19 02:47:27 | INFO    | GUI | 🔌 Reinitializing agent for SIMULATION mode... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd0c Reinitializing agent for SIMULATION mode..."}
+2025-09-19 02:47:27 | INFO    | GUI | Successfully switched to SIMULATION mode! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Successfully switched to SIMULATION mode!","success":true}
+2025-09-19 02:47:27 | INFO    | MODE_SWITCH | Mode switch completed successfully to SIMULATION | DATA: {"mode":"SIMULATION","reconnection_attempted":false}
+2025-09-19 03:05:06 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T03:05:06.615530"}
+2025-09-19 03:05:06 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 03:05:06 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 03:05:06 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 03:05:06 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 03:05:06 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 03:05:06 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 03:05:06 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 03:05:07 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 03:05:07 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}
+2025-09-19 03:07:44 | INFO    | GUI | 🔌 Disconnected from drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd0c Disconnected from drone","success":true}
+2025-09-19 03:07:53 | INFO    | GUI | 🔄 Switching from SIMULATION to REALTIME mode... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd04 Switching from SIMULATION to REALTIME mode..."}
+2025-09-19 03:07:53 | INFO    | MODE_SWITCH | User initiated mode switch from SIMULATION to REALTIME | DATA: {"old_mode":"SIMULATION","new_mode":"REALTIME","was_connected":false,"was_flying":false}
+2025-09-19 03:07:53 | INFO    | GUI | 🔌 Reinitializing agent for REALTIME mode... | DATA: {"mode":"REALTIME","gui_message":"\ud83d\udd0c Reinitializing agent for REALTIME mode..."}
+2025-09-19 03:07:53 | INFO    | GUI | Successfully switched to REALTIME mode! | DATA: {"mode":"REALTIME","gui_message":"\u2705 Successfully switched to REALTIME mode!","success":true}
+2025-09-19 03:07:53 | INFO    | MODE_SWITCH | Mode switch completed successfully to REALTIME | DATA: {"mode":"REALTIME","reconnection_attempted":false}
+2025-09-19 03:07:54 | INFO    | GUI | 🔄 Switching from REALTIME to SIMULATION mode... | DATA: {"mode":"REALTIME","gui_message":"\ud83d\udd04 Switching from REALTIME to SIMULATION mode..."}
+2025-09-19 03:07:54 | INFO    | MODE_SWITCH | User initiated mode switch from REALTIME to SIMULATION | DATA: {"old_mode":"REALTIME","new_mode":"SIMULATION","was_connected":false,"was_flying":false}
+2025-09-19 03:07:54 | INFO    | GUI | 🔌 Reinitializing agent for SIMULATION mode... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd0c Reinitializing agent for SIMULATION mode..."}
+2025-09-19 03:07:54 | INFO    | GUI | Successfully switched to SIMULATION mode! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Successfully switched to SIMULATION mode!","success":true}
+2025-09-19 03:07:54 | INFO    | MODE_SWITCH | Mode switch completed successfully to SIMULATION | DATA: {"mode":"SIMULATION","reconnection_attempted":false}
+2025-09-19 03:07:57 | INFO    | GUI | 🔗 Connecting to drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Connecting to drone..."}
+2025-09-19 03:07:58 | INFO    | GUI | Connected successfully! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Connected successfully!","success":true}
+2025-09-19 03:08:06 | INFO    | GUI | 📹 Video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Video stream started"}
+2025-09-19 03:08:11 | INFO    | GUI | 🚀 Taking off... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Taking off..."}
+2025-09-19 03:08:13 | INFO    | GUI | Takeoff successful! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Takeoff successful!","success":true}
+2025-09-19 03:08:25 | INFO    | GUI | 🛬 Landing... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udeec Landing..."}
+2025-09-19 03:08:27 | INFO    | GUI | Landing successful! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Landing successful!","success":true}
+2025-09-19 03:09:19 | INFO    | GUI | 🚀 Executing AI-planned mission via sequential processor... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Executing AI-planned mission via sequential processor..."}
+2025-09-19 03:09:19 | INFO    | GUI | Mission validated - executing 17 commands via sequential processor | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Mission validated - executing 17 commands via sequential processor","success":true}
+2025-09-19 03:09:19 | INFO    | GUI | 🎯 Executing: takeoff | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfaf Executing: takeoff"}
+2025-09-19 03:09:19 | INFO    | GUI | 🎯 Executing: hover 3 | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfaf Executing: hover 3"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: forward 300 (position 2) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: forward 300 (position 2)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: hover 2 (position 3) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: hover 2 (position 3)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: photo (position 4) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: photo (position 4)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: right 300 (position 5) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: right 300 (position 5)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: hover 2 (position 6) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: hover 2 (position 6)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: photo (position 7) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: photo (position 7)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: back 300 (position 8) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: back 300 (position 8)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: hover 2 (position 9) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: hover 2 (position 9)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: photo (position 10) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: photo (position 10)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: left 300 (position 11) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: left 300 (position 11)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: hover 2 (position 12) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: hover 2 (position 12)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: photo (position 13) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: photo (position 13)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: back 300 (position 14) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: back 300 (position 14)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: hover 2 (position 15) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: hover 2 (position 15)"}
+2025-09-19 03:09:19 | INFO    | GUI | 📋 Queued: land (position 16) | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udccb Queued: land (position 16)"}
+2025-09-19 03:09:21 | INFO    | GUI | 🚀 Mission step 1:  Takeoff successful | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 1: \u2705 Takeoff successful","success":true}
+2025-09-19 03:09:24 | INFO    | GUI | 🚀 Mission step 2:  Hovered for 3.0 seconds | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 2: \u2705 Hovered for 3.0 seconds","success":true}
+2025-09-19 03:09:29 | INFO    | GUI | 🚀 Mission step 3:  Moved forward 300cm | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 3: \u2705 Moved forward 300cm","success":true}
+2025-09-19 03:09:31 | INFO    | GUI | 🚀 Mission step 4:  Hovered for 2.0 seconds | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 4: \u2705 Hovered for 2.0 seconds","success":true}
+2025-09-19 03:09:32 | INFO    | GUI | 🚀 Mission step 5:  Photo saved: tello_photo_20250919_030931.jpg | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 5: \u2705 Photo saved: tello_photo_20250919_030931.jpg","success":true}
+2025-09-19 03:09:37 | INFO    | GUI | 🚀 Mission step 6:  Moved right 300cm | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 6: \u2705 Moved right 300cm","success":true}
+2025-09-19 03:09:39 | INFO    | GUI | 🚀 Mission step 7:  Hovered for 2.0 seconds | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 7: \u2705 Hovered for 2.0 seconds","success":true}
+2025-09-19 03:09:39 | INFO    | GUI | 🚀 Mission step 8:  Photo saved: tello_photo_20250919_030939.jpg | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 8: \u2705 Photo saved: tello_photo_20250919_030939.jpg","success":true}
+2025-09-19 03:09:44 | INFO    | GUI | 🚀 Mission step 9:  Moved back 300cm | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 9: \u2705 Moved back 300cm","success":true}
+2025-09-19 03:09:46 | INFO    | GUI | 🚀 Mission step 10:  Hovered for 2.0 seconds | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 10: \u2705 Hovered for 2.0 seconds","success":true}
+2025-09-19 03:09:47 | INFO    | GUI | 🚀 Mission step 11:  Photo saved: tello_photo_20250919_030947.jpg | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 11: \u2705 Photo saved: tello_photo_20250919_030947.jpg","success":true}
+2025-09-19 03:09:52 | INFO    | GUI | 🚀 Mission step 12:  Moved left 300cm | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 12: \u2705 Moved left 300cm","success":true}
+2025-09-19 03:09:54 | INFO    | GUI | 🚀 Mission step 13:  Hovered for 2.0 seconds | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 13: \u2705 Hovered for 2.0 seconds","success":true}
+2025-09-19 03:09:54 | INFO    | GUI | 🚀 Mission step 14:  Photo saved: tello_photo_20250919_030954.jpg | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 14: \u2705 Photo saved: tello_photo_20250919_030954.jpg","success":true}
+2025-09-19 03:09:59 | INFO    | GUI | 🚀 Mission step 15:  Moved back 300cm | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 15: \u2705 Moved back 300cm","success":true}
+2025-09-19 03:10:02 | INFO    | GUI | 🚀 Mission step 16:  Hovered for 2.0 seconds | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 16: \u2705 Hovered for 2.0 seconds","success":true}
+2025-09-19 03:10:04 | INFO    | GUI | 🚀 Mission step 17:  Landing successful | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\ude80 Mission step 17: \u2705 Landing successful","success":true}
+2025-09-19 03:10:09 | INFO    | GUI | 🔌 Disconnected from drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd0c Disconnected from drone","success":true}
+2025-09-19 03:27:52 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T03:27:52.966379"}
+2025-09-19 03:27:53 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 03:27:53 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 03:27:53 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 03:27:53 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 03:27:53 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 03:27:53 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 03:27:53 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 03:27:53 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 03:27:54 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}
+2025-09-19 03:30:52 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T03:30:52.379446"}
+2025-09-19 03:30:52 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 03:30:52 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 03:30:52 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 03:30:52 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 03:30:52 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 03:30:52 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 03:30:52 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 03:30:53 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 03:30:53 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}
+2025-09-19 03:33:35 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T03:33:35.562509"}
+2025-09-19 03:33:35 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 03:33:35 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 03:33:35 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 03:33:35 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 03:33:35 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 03:33:35 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 03:33:35 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 03:33:36 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 03:33:36 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}
+2025-09-19 03:33:50 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T03:33:50.437978"}
+2025-09-19 03:33:50 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 03:33:50 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 03:33:50 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 03:33:50 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 03:33:50 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 03:33:50 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 03:33:50 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 03:33:51 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 03:33:51 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}
+2025-09-19 03:34:59 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T03:34:59.687441"}
+2025-09-19 03:34:59 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 03:34:59 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 03:34:59 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 03:34:59 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 03:34:59 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 03:34:59 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 03:34:59 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 03:35:00 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 03:35:00 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}
+2025-09-19 13:20:29 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T13:20:29.630214"}
+2025-09-19 13:20:30 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 13:20:30 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 13:20:30 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 13:20:30 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 13:20:30 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 13:20:30 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 13:20:30 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 13:20:31 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 13:20:31 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}
+2025-09-19 14:29:03 | INFO    | GUI | Drone Control System started in SIMULATION mode | DATA: {"version":"2.0","simulation_mode":true,"timestamp":"2025-09-19T14:29:03.212746"}
+2025-09-19 14:29:03 | INFO    | GUI | Espeak-ng TTS system detected and ready | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Espeak-ng TTS system detected and ready","success":true}
+2025-09-19 14:29:03 | INFO    | GUI | 🎮 Welcome to Tello Drone Control System! | DATA: {"mode":"SIMULATION","gui_message":"\ud83c\udfae Welcome to Tello Drone Control System!"}
+2025-09-19 14:29:03 | INFO    | GUI | 🔗 Click 'Connect' to start controlling your drone | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Click 'Connect' to start controlling your drone"}
+2025-09-19 14:29:03 | INFO    | GUI | 🤖 Loading Azure OpenAI configuration from environment... | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Loading Azure OpenAI configuration from environment..."}
+2025-09-19 14:29:03 | INFO    | GUI | Azure OpenAI connected and ready! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Azure OpenAI connected and ready!","success":true}
+2025-09-19 14:29:03 | INFO    | GUI | 🤖 Natural language commands now available! | DATA: {"mode":"SIMULATION","gui_message":"\ud83e\udd16 Natural language commands now available!"}
+2025-09-19 14:29:03 | INFO    | GUI | 🔗 Auto-connecting to simulated drone... | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udd17 Auto-connecting to simulated drone..."}
+2025-09-19 14:29:04 | INFO    | GUI | Simulation auto-connected! | DATA: {"mode":"SIMULATION","gui_message":"\u2705 Simulation auto-connected!","success":true}
+2025-09-19 14:29:04 | INFO    | GUI | 📹 Simulation video stream started | DATA: {"mode":"SIMULATION","gui_message":"\ud83d\udcf9 Simulation video stream started"}

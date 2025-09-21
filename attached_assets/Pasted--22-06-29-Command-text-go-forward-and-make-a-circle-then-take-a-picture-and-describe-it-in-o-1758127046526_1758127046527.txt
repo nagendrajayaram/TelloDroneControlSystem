@@ -1,0 +1,26 @@
+[22:06:29] 🎯 Command (text): go forward and make a circle, then take a picture and describe it in one sentence.
+[22:06:29] 🤖 Processing with Azure OpenAI...
+[22:06:32] 🤖 AI interpreted: 'go forward and make a circle, then take a picture and describe it in one sentence.' → 4 commands
+[22:06:32] 🤖 AI generated 4 commands for sequential execution
+[22:06:32] 🎯 Executing: forward 100
+[22:06:32] 🎯 Executing: cw 360
+[22:06:32] 📋 Queued: take_photo (position 2)
+[22:06:32] 🔍 DEBUG: Sequential AI - prompt: 'describe the overall scene in one sentence', use_photo: True
+[22:06:32] 🤖 AI Command 4: ✅ Vision analysis requested: describe the overall scene in one sentence...
+[22:06:32] 🔍 Using most recent saved photo: tello_photo_20250917_215102.jpg
+[22:06:32] 🔍 Analyzing captured photo: tello_photo_20250917_215102.jpg
+[22:06:32] 📸 DEBUG: Using custom prompt for photo: 'describe the overall scene in one sentence'
+[22:06:32] 🔍 Image data type: <class 'PIL.JpegImagePlugin.JpegImageFile'>
+[22:06:35] 🤖 AI Command 1: ✅ Moved forward 100cm
+[22:06:37] 📸 Photo Analysis: The scene depicts a simplistic, animated landscape with basic geometric shapes, including a car, a vertical wooden structure, and various green rectangles on a textured green surface. Above, a blue circular figure hovers against a gradient pink sky, suggesting a playful environment. Overall, it conveys an abstract and whimsical atmosphere.
+[22:06:37] 🔊 Queuing TTS: Photo analysis: The scene depicts a simplistic, an...
+[22:06:37] 🔊 Speaking: Photo analysis: The scene depi...
+[22:06:37] 🔊 Generating audio file...
+[22:06:37] ✅ Audio file generated via pyttsx3
+[22:06:37] 🔊 Attempting SYSTEM AUDIO playback first...
+[22:06:37] 🔊 Trying system audio players...
+[22:06:37] 🔊 Trying PowerShell Media Player (powershell)...
+[22:06:38] 🤖 AI Command 2: ✅ Rotated clockwise 360°
+[22:06:38] 🤖 AI Command 3: ✅ Photo saved: tello_photo_20250917_220638.jpg
+[22:06:57] ✅ SUCCESS: Audio playing via PowerShell Media Player
+[22:07:02] ✅ Audio file cleaned up after PowerShell Media Player playback
